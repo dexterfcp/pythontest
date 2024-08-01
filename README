@@ -1,0 +1,21 @@
+# Python Technical Test
+
+## Description
+This project is the result of a technical test applied by Pandemic.
+It's a FastAPI application that provides an API to manage Locations, Categories and Recomendations.
+
+## Tools and Technologies
+- Python 3.9
+- FastAPI
+- SQLAlchemy
+- Docker
+- Pydantic
+
+## Installation and Execution
+### Requirements
+- Docker
+- Docker Compose
+
+### Installation
+1. Clone the repository
+2. Build the Docker image with Docker Compose:
